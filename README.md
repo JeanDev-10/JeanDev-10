@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Rodríguez</h1>
-<h3 align="center">Apasionado Desarrollador Web Front End De Ecuador</h3>
+<h3 align="center">Apasionado Desarrollador Web De Ecuador</h3>
 
 - 🌱 Actualmente estoy aprendiendo las tecnologías **Laravel, React**
 
