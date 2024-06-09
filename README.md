@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Rodríguez</h1>
 <h3 align="center">Apasionado Desarrollador Web De Ecuador</h3>
 
-- 🌱 Actualmente estoy aprendiendo las tecnologías **Laravel, Angular**
+- 🌱 Actualmente mi Stack de desarrollo es **Laravel, Angular**
 
 - 👨‍💻 Todos mis proyectos web realizados se encuentran en mi portafolio [https://jean10112002.github.io/Portafolio/](https://jean10112002.github.io/Portafolio/)
 
