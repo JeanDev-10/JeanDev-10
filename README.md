@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jean Rodríguez</h1>
 <h3 align="center">Apasionado Desarrollador Web De Ecuador</h3>
 
-- 🌱 Actualmente mi Stack de desarrollo es **Laravel, Angular**
+<h2 align="center">El codigo es un arte</h2>
+<h2 align="center">¡Hola! Soy un apasionado desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Creo firmemente que cada línea de código es una pincelada en un lienzo digital, donde la funcionalidad y la estética se unen para crear experiencias únicas. Me mantengo siempre al tanto de las últimas tendencias y tecnologías, buscando constantemente nuevas formas de mejorar y perfeccionar mis habilidades.
 
-- 👨‍💻 Todos mis proyectos web realizados se encuentran en mi portafolio [https://jean10112002.github.io/Portafolio/](https://jean10112002.github.io/Portafolio/)
+Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
 
-<h3 align="left">Contacta conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jean-rodr%C3%ADguez-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jean-rodriguez-011a11212/" height="30" width="40" /></a>
-</p>
+Para mí, cada proyecto es una oportunidad de aprendizaje y crecimiento, y mi objetivo es siempre superar las expectativas de los usuarios y contribuir al éxito de los proyectos en los que participo.
 
-
+</h2>
 
 <h3 align="center">🚀 Tech Stacks and Tools 🕶️</h3>
 
