@@ -12,7 +12,7 @@
 
 
 
-
+<h3 align="center">🚀 Tech Stacks and Tools 🕶️</h3>
 
 
 <p align="center">
@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+  <img src="https://img.shields.io/badge/Boostrap?style=for-the-badge&logo=boostrap&logoColor=white" alt="Boostrap" />&nbsp;
 
  
   
