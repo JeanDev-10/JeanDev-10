@@ -62,6 +62,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jean10112002&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
+##
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
