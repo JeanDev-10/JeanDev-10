@@ -51,7 +51,7 @@
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Estadística:
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Jean10112002&show_icons=true&theme=onedark">
