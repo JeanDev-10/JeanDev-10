@@ -50,22 +50,21 @@
   <!-- ... other tools and technologies ... -->
 </p>
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jean10112002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jean10112002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean10112002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Jean10112002&icon=0&color=0)](https://visitcount.itsvg.in)
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Jean10112002&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean10112002&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jean10112002&theme=onedark" />
+</div>
 
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Feeding...
+## Mis trofeos
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Jean10112002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contribuciones
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 ##
