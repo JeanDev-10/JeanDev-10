@@ -65,7 +65,7 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Jean10112002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contribuciones
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/Jean10112002/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Jean10112002/Jean10112002/output/github-contribution-grid-snake-dark.svg)
 
 ##
 
