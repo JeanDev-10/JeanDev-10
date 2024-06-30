@@ -55,7 +55,7 @@
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Jean10112002&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jean10112002&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean10112002&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jean10112002&theme=onedark" />
 </div>
@@ -65,7 +65,7 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Jean10112002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contribuciones
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/Jean10112002/output/github-contribution-grid-snake-dark.svg)
 
 ##
 
