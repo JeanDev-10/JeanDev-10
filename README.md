@@ -58,18 +58,18 @@
 # 📊 GitHub Estadística:
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Jean10112002&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jean10112002&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean10112002&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jean10112002&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=JeanDev-10&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JeanDev-10&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanDev-10&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanDev-10&theme=onedark" />
 </div>
 
 
 ## 🏆 Mis trofeos
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jean10112002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JeanDev-10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💥 Contribuciones
-![Snake animation](https://raw.githubusercontent.com/Jean10112002/Jean10112002/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/JeanDev-10/JeanDev-10/output/github-contribution-grid-snake-dark.svg)
 
 ##
 
