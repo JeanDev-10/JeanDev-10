@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jean Rodríguez</h1>
 <h3 align="center">Desarrollador Web De Ecuador</h3>
 
-<p align="center">¡Hola! desde niño me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Aunque mi experiencia en el campo es limitada, tengo una sólida base teórica y he trabajado en proyectos personales y académicos que me han permitido desarrollar aplicaciones web funcionales y atractivas. Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades técnicas y prácticas. Mi capacidad para resolver problemas, mi atención al detalle y mi entusiasmo por el desarrollo web me impulsan a buscar oportunidades donde pueda contribuir y crecer profesionalmente.
+<p align="center">¡Hola! desde temprana edad me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Aunque mi experiencia en el campo es limitada, tengo una sólida base teórica y he trabajado en proyectos personales y académicos que me han permitido desarrollar aplicaciones web funcionales y atractivas.
 
 
 
