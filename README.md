@@ -6,6 +6,7 @@
 
 
 </p>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFP7UiDFP3U0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736353227765?e=1746057600&v=beta&t=nuikqZ0RddQ_7LVNTpoxrzVnQbZCjMG4_d3YGn4kAqA"  alt="banner" />
 
 <h3 align="center">🚀 Tecnologías y Herramientas 🕶️</h3>
 
