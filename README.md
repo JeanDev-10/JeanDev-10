@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Jean Rodríguez</h1>
-<h3 align="center">Ingeniero de Software de Ecuador</h3>
+<h1 align="center">Hola 👋, Soy Jean Rodríguez👨‍💻</h1>
+<h3 align="center">Ingeniero de Software🚀</h3>
 
 <p align="center">¡Hola! desde temprana edad me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Mi principal dominio es Angular y Laravel como tecnologías para el Frontend y Backend respectivamente, sin embargo; actualmente me encuentro aprendiento el entorno de .NET con SQL Server.
 </p>
