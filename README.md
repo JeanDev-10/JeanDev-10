@@ -4,7 +4,7 @@
 <p align="center">¡Hola! desde temprana edad me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Mi principal dominio es Angular y Laravel como tecnologías para el Frontend y Backend respectivamente, sin embargo; actualmente me encuentro aprendiento el entorno de .NET con SQL Server.
 </p>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFP7UiDFP3U0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736353227765?e=1746057600&v=beta&t=nuikqZ0RddQ_7LVNTpoxrzVnQbZCjMG4_d3YGn4kAqA"  alt="banner" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFP7UiDFP3U0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736353227765?e=1752105600&v=beta&t=grq6tnvnbqpUMbFS21B94vmb7fokKsNlXI28lzKrsn4"  alt="banner" />
 
 <h3 align="center">🚀 Tecnologías y Herramientas 🕶️</h3>
 
