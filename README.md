@@ -1,12 +1,12 @@
-<h1 align="center">Hola 👋, Soy Jean Rodríguez👨‍💻</h1>
-<h3 align="center">Ingeniero de Software🚀</h3>
+<h1 align="center">Hi there 👋, I'm Jean Rodríguez👨‍💻</h1>
+<h3 align="center">Software Enginner🚀</h3>
 
-<p align="center">¡Hola! desde temprana edad me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Mi principal dominio es Angular y Laravel como tecnologías para el Frontend y Backend respectivamente, sin embargo; actualmente me encuentro aprendiento el entorno de .NET con SQL Server.
+<p align="center">Hello! Since an early age, I’ve been passionate about the world of technology and computing. I’m a FullStack web developer who sees software development as a form of art. My focus covers both frontend and backend development, and I strive to write clean, efficient, and maintainable code. My main expertise lies in Angular for the frontend and Laravel for the backend; however, I’m currently learning the .NET environment with SQL Server.
 </p>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFP7UiDFP3U0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736353227765?e=1752105600&v=beta&t=grq6tnvnbqpUMbFS21B94vmb7fokKsNlXI28lzKrsn4"  alt="banner" />
+<!-- <img src="https://media.licdn.com/dms/image/v2/D4E16AQFP7UiDFP3U0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736353227765?e=1752105600&v=beta&t=grq6tnvnbqpUMbFS21B94vmb7fokKsNlXI28lzKrsn4"  alt="banner" />  -->
 
-<h3 align="center">🚀 Tecnologías y Herramientas 🕶️</h3>
+<h3 align="center">🚀 Tech and tools 🕶️</h3>
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <strong>Backend & Base de Datos:</strong><br/>
+  <strong>Backend & Database:</strong><br/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />&nbsp; 
  <!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring  Boot" />&nbsp; -->
@@ -40,14 +40,14 @@
 </p>
 
 <p align="center">
-    <strong>Desarrollo Mobile:</strong><br/>
+    <strong>Mobile:</strong><br/>
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />&nbsp;
    
   <!-- ... other mobile development technologies ... -->
 </p>
 
 <p align="center">
-  <strong>Herramientas & Otros:</strong><br/>
+  <strong>Tools & others:</strong><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
@@ -61,7 +61,7 @@
 </p>
 
 
-# 📊 GitHub Estadística:
+# 📊 GitHub Statistics:
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=JeanDev-10&show_icons=true&theme=onedark">
@@ -71,10 +71,10 @@
 </div>
 
 
-## 🏆 Mis trofeos
+## 🏆 My trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=JeanDev-10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💥 Contribuciones
+## 💥 Contributions
 ![Snake animation](https://raw.githubusercontent.com/JeanDev-10/JeanDev-10/output/github-contribution-grid-snake-dark.svg)
 
 ##
