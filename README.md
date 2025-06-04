@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jean Rodríguez👨‍💻</h1>
-<h3 align="center">Software Engineer🚀</h3>
+<h3 align="center">Computer Science Engineer🚀</h3>
 
 <p align="center">Hello! Since an early age, I’ve been passionate about the world of technology and computing. I’m a FullStack web developer who sees software development as a form of art. My focus covers both frontend and backend development, and I strive to write clean, efficient, and maintainable code. My main expertise lies in Angular for the frontend and Laravel for the backend; however, I’m currently learning the .NET environment with SQL Server.
 </p>
